@@ -1,10 +1,8 @@
-# <h1 align="center">👋 Hi, I'm Mythri Raj Banda</h1>
+# Hi, I'm Mythri Raj Banda
 
-<h3 align="center">🚀 AI & Software Engineer | Full-Stack Developer | Product Builder</h3>
+**AI & Software Engineer | Full-Stack Developer | Product Builder**
 
-<p align="center">
-  <i>Crafting intelligent systems and shipping real products at the intersection of AI, Software Engineering, and Data Science.</i>
-</p>
+*Crafting intelligent systems and shipping real products at the intersection of AI, Software Engineering, and Data Science.*
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mythribanda&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -27,25 +25,25 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I'm an **AI & Data Science Engineer** with a relentless drive to solve real-world problems through intelligent, scalable software. Over the past years, I've built **production-grade applications** across **healthcare, education, analytics, and productivity domains**—combining cutting-edge AI with solid engineering fundamentals.
 
 **What I do:**
-- 🤖 **Build AI-powered systems** that drive tangible business value
-- 🏗️ **Engineer full-stack solutions** from ideation to deployment
-- 📊 **Extract actionable insights** from complex data
-- 🚀 **Ship products** that people use and love
-- 🧠 **Learn rapidly** across new domains and technologies
+- **Build AI-powered systems** that drive tangible business value
+- **Engineer full-stack solutions** from ideation to deployment
+- **Extract actionable insights** from complex data
+- **Ship products** that people use and love
+- **Learn rapidly** across new domains and technologies
 
 **What drives me:** Transforming ideas into functional, impactful products. I don't just write code—I build systems that matter.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
-<summary><b>🏥 PillTalk: AI Healthcare Intelligence Platform</b></summary>
+<summary><b>PillTalk: AI Healthcare Intelligence Platform</b></summary>
 
 **The Vision:** Empower users to understand medicines, prescriptions, and healthcare information through intelligent AI analysis.
 
@@ -62,12 +60,10 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
 - Reduces manual interpretation effort by automating prescription analysis
 - Makes prescription literacy accessible to wider audiences
 
-**GitHub:** [Link to repo](#)
-
 </details>
 
 <details>
-<summary><b>📚 EduSim: AI-Powered Adaptive Learning Platform</b></summary>
+<summary><b>EduSim: AI-Powered Adaptive Learning Platform</b></summary>
 
 **The Vision:** Transform education through personalized, interactive, AI-driven learning experiences.
 
@@ -91,12 +87,10 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
 - Personalizes education to individual student needs
 - Transforms static textbook content into dynamic simulations
 
-**GitHub:** [Link to repo](#)
-
 </details>
 
 <details>
-<summary><b>📊 Data Whisperer: Automated Analytics Platform</b></summary>
+<summary><b>Data Whisperer: Automated Analytics Platform</b></summary>
 
 **The Vision:** Enable anyone to unlock insights from data without technical expertise.
 
@@ -113,12 +107,10 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
 - Reduces analysis time from hours to minutes
 - Enables better, faster decision-making based on data
 
-**GitHub:** [Link to repo](#)
-
 </details>
 
 <details>
-<summary><b>💪 MindBreaks: AI Wellness & Productivity Assistant</b></summary>
+<summary><b>MindBreaks: AI Wellness & Productivity Assistant</b></summary>
 
 **The Vision:** Help teams maintain focus and wellness through personalized microbreak recommendations.
 
@@ -135,12 +127,10 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
 - Reduces burnout through intelligent intervention
 - Enhances overall employee wellness and engagement
 
-**GitHub:** [Link to repo](#)
-
 </details>
 
 <details>
-<summary><b>🎵 Spotify Streaming Analytics Project</b></summary>
+<summary><b>Spotify Streaming Analytics Project</b></summary>
 
 **The Vision:** Understand global streaming patterns and user behavior through data storytelling.
 
@@ -157,21 +147,19 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
 - Improved understanding of platform dynamics
 - Demonstrated advanced data storytelling capabilities
 
-**GitHub:** [Link to repo](#)
-
 </details>
 
 ---
 
-## 💼 Experience
+## Experience
 
-### **AI Intern — Alonzo AI**
+### AI Intern — Alonzo AI
 *Artificial Intelligence Applications & ML Solutions Development*
 - Developed and integrated AI models into production applications
 - Worked on ML solutions for real-world problem domains
 - Contributed to AI product development and intelligent automation initiatives
 
-### **Research Intern — Chaitanya Bharathi Institute of Technology (CBIT)**
+### Research Intern — Chaitanya Bharathi Institute of Technology (CBIT)
 *Applied Research in AI & Data Science*
 - Conducted applied research in Artificial Intelligence and Data Analysis
 - Built PillTalk project as part of research initiative
@@ -179,10 +167,11 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
 
 ---
 
-## 💻 Tech Stack & Languages
+## Tech Stack & Languages
 
-### 🎨 **Frontend Development**
-<div align="center">
+### Frontend Development
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="typescript logo" />
@@ -196,8 +185,9 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind logo" />
 </div>
 
-### 🔧 **Backend & Programming**
-<div align="center">
+### Backend & Programming
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
@@ -211,8 +201,9 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
 </div>
 
-### 🤖 **AI & Machine Learning**
-<div align="center">
+### AI & Machine Learning
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="pytorch logo" />
@@ -224,8 +215,9 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
   <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="sklearn logo" />
 </div>
 
-### 💾 **Databases & Tools**
-<div align="center">
+### Databases & Tools
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="postgresql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
@@ -241,7 +233,7 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
 
 ---
 
-## 📜 Certifications & Credentials
+## Certifications & Credentials
 
 ![Oracle Cloud Infrastructure Data Science Professional](https://img.shields.io/badge/Oracle-Cloud%20Data%20Science%20Professional-F80000?style=flat-square)
 ![Oracle AI Foundations Associate](https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000?style=flat-square)
@@ -252,7 +244,7 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
 
 ---
 
-## 📊 GitHub Analytics & Statistics
+## GitHub Analytics & Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mythribanda&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="180" />
@@ -265,7 +257,7 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mythribanda&theme=github_dark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
@@ -273,42 +265,40 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
 
 ---
 
----
-
-## 🏅 Key Achievements & Strengths
+## Key Achievements & Strengths
 
 <details>
-<summary><b>✨ What Makes Me Different</b></summary>
+<summary><b>What Makes Me Different</b></summary>
 
-### **Technical Excellence**
-- ✅ **Rapid Domain Mastery** – Can learn and master new technologies/domains in weeks, not months
-- ✅ **Full-Stack Ownership** – Comfortable across frontend, backend, ML, data science, DevOps
-- ✅ **Production-Grade Code** – Ship scalable, maintainable, well-tested applications
-- ✅ **AI-First Approach** – Leverage LLMs and ML naturally in architecture, not as afterthoughts
+### Technical Excellence
+- Rapid Domain Mastery – Can learn and master new technologies/domains in weeks, not months
+- Full-Stack Ownership – Comfortable across frontend, backend, ML, data science, DevOps
+- Production-Grade Code – Ship scalable, maintainable, well-tested applications
+- AI-First Approach – Leverage LLMs and ML naturally in architecture, not as afterthoughts
 
-### **Engineering Discipline**
-- ✅ **End-to-End Ownership** – Take projects from ideation through research, design, implementation, and deployment
-- ✅ **Problem Decomposition** – Break complex problems into manageable, solvable pieces
-- ✅ **Thoughtful Architecture** – Design systems that scale, are maintainable, and handle edge cases
-- ✅ **Quality Focus** – Debug deeply, understand root causes, implement robust solutions
+### Engineering Discipline
+- End-to-End Ownership – Take projects from ideation through research, design, implementation, and deployment
+- Problem Decomposition – Break complex problems into manageable, solvable pieces
+- Thoughtful Architecture – Design systems that scale, are maintainable, and handle edge cases
+- Quality Focus – Debug deeply, understand root causes, implement robust solutions
 
-### **Product Thinking**
-- ✅ **User-Centric** – Build features people actually want and use
-- ✅ **Impact-Driven** – Obsess over outcomes, not just outputs
-- ✅ **Iterative** – Learn from feedback, iterate quickly, improve continuously
-- ✅ **Business Acumen** – Understand how features translate to value
+### Product Thinking
+- User-Centric – Build features people actually want and use
+- Impact-Driven – Obsess over outcomes, not just outputs
+- Iterative – Learn from feedback, iterate quickly, improve continuously
+- Business Acumen – Understand how features translate to value
 
-### **Leadership & Collaboration**
-- ✅ **Initiative** – Identify gaps, propose solutions, drive execution
-- ✅ **Communication** – Explain complex concepts clearly to diverse audiences
-- ✅ **Mentoring** – Help teammates level up their skills and capabilities
-- ✅ **Ownership Mentality** – Take responsibility for outcomes and drive to completion
+### Leadership & Collaboration
+- Initiative – Identify gaps, propose solutions, drive execution
+- Communication – Explain complex concepts clearly to diverse audiences
+- Mentoring – Help teammates level up their skills and capabilities
+- Ownership Mentality – Take responsibility for outcomes and drive to completion
 
 </details>
 
 ---
 
-## 🎯 Competitive Programming & Problem-Solving
+## Competitive Programming & Problem-Solving
 
 While my focus is on **product engineering and AI systems**, I've developed strong algorithmic foundations:
 
@@ -321,7 +311,7 @@ While my focus is on **product engineering and AI systems**, I've developed stro
 
 ---
 
-## 🧠 What I've Learned Building Products
+## What I've Learned Building Products
 
 <details>
 <summary><b>Key Lessons from Shipped Projects</b></summary>
@@ -346,18 +336,18 @@ While my focus is on **product engineering and AI systems**, I've developed stro
 - Understanding time/space tradeoffs is crucial
 - Problem decomposition is the most valuable skill
 
-### **Cross-Project Lessons**
-- ✅ **Ship early** – Get feedback from real users as soon as possible
-- ✅ **Measure impact** – Define success metrics before building
-- ✅ **Iterate relentlessly** – First version is never the final version
-- ✅ **Document thoroughly** – Future you (and your team) will thank you
-- ✅ **Automate repetition** – Tools and scripts compound into massive time savings
+### Cross-Project Lessons
+- Ship early – Get feedback from real users as soon as possible
+- Measure impact – Define success metrics before building
+- Iterate relentlessly – First version is never the final version
+- Document thoroughly – Future you (and your team) will thank you
+- Automate repetition – Tools and scripts compound into massive time savings
 
 </details>
 
 ---
 
-## 💼 Why Companies Should Hire Me
+## Why Companies Should Hire Me
 
 I'm not just a developer—I'm a **complete engineer** who can:
 
@@ -388,47 +378,7 @@ I'm not just a developer—I'm a **complete engineer** who can:
 
 ---
 
-## 🚀 What I'm Currently Building
-
-<div align="left">
-
-- 🤖 **Advanced AI/LLM Integration** – Building systems that leverage frontier models for complex problem-solving
-- 📚 **EduSim 2.0** – Next-generation adaptive learning with real-time simulation synthesis
-- 🚀 **Full-Stack Product Development** – Shipping end-to-end solutions with elegant frontends and robust backends
-- 🔍 **Data Science Research** – Exploring novel approaches to insights generation and pattern recognition
-- 💡 **Open Source** – Contributing to AI, ML, and full-stack development communities
-
-</div>
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm actively seeking opportunities to:
-- 🤖 Build cutting-edge **AI/ML systems** at scale
-- 🏢 Own **full-stack products** from conception to deployment
-- 👥 Work with teams pushing boundaries in **AI and software engineering**
-- 🌍 Impact millions of users through **intelligent, well-engineered solutions**
-
-**Have a challenging problem to solve?** Let's build it together!
-
-<div align="center">
-
-<div align="center">
-
-### 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mythri-banda)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mythri_banda)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandamythri@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mythribanda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://mythribanda.github.io/Mythri-Portfolio/)
-
-</div>
-
----
-
-## 🔬 Research Interests & Exploration
+## Research Interests & Exploration
 
 I'm deeply interested in exploring:
 
@@ -441,18 +391,18 @@ I'm deeply interested in exploring:
 
 ---
 
-## 💬 Open To Discussing
+## Open To Discussing
 
-- 🤖 **AI & ML Architecture** – System design for intelligent applications
-- 🏗️ **Full-Stack Engineering** – Frontend frameworks, backend architecture, databases
-- 📊 **Data Science & Analytics** – ETL, analytics pipelines, insights generation
-- 🚀 **Product Strategy** – How to build products that users love
-- 🎓 **Teaching & Mentoring** – Helping developers level up their skills
-- 🌍 **Startup Ideas** – Building ventures that solve real problems
+- AI & ML Architecture – System design for intelligent applications
+- Full-Stack Engineering – Frontend frameworks, backend architecture, databases
+- Data Science & Analytics – ETL, analytics pipelines, insights generation
+- Product Strategy – How to build products that users love
+- Teaching & Mentoring – Helping developers level up their skills
+- Startup Ideas – Building ventures that solve real problems
 
 ---
 
-## 📚 Learning & Growth
+## Learning & Growth
 
 I'm committed to continuous learning:
 
@@ -463,20 +413,23 @@ I'm committed to continuous learning:
 
 ---
 
-## 🎯 Career Trajectory & Vision
+## Career Trajectory & Vision
 
-**Current Focus (2024-2025)**
+### Current Focus (2024-2025)
+
 - Master full-stack AI product development
 - Contribute to open-source ML/AI projects
 - Build products that have measurable real-world impact
 - Develop expertise in AI systems architecture
 
-**Medium-term (1-2 years)**
+### Medium-term (1-2 years)
+
 - Join a team building frontier AI applications at scale
 - Lead technical initiatives on products with millions of users
 - Deepen expertise in specific domains (healthcare tech, edutech, financial tech)
 
-**Long-term (3-5 years)**
+### Long-term (3-5 years)
+
 - Lead engineering teams focused on AI/ML product development
 - Build or co-found a venture solving meaningful problems with AI
 - Contribute to open-source projects and research community
@@ -484,29 +437,31 @@ I'm committed to continuous learning:
 
 ---
 
-## 📖 My Engineering Philosophy
+## My Engineering Philosophy
 
 > **"Build with intention. Ship with confidence. Learn relentlessly."**
 
 ### Core Principles:
 
-1. **User-Centric** – Every line of code should serve users
-2. **Pragmatic** – Perfect is the enemy of good; ship and iterate
-3. **Curious** – Always ask "why?" and dive deep into problems
-4. **Collaborative** – Better solutions emerge from diverse perspectives
-5. **Accountable** – Own the outcomes, not just the effort
-6. **Continuous** – Learn from failures, celebrate successes, improve always
+- **User-Centric** – Every line of code should serve users
+- **Pragmatic** – Perfect is the enemy of good; ship and iterate
+- **Curious** – Always ask "why?" and dive deep into problems
+- **Collaborative** – Better solutions emerge from diverse perspectives
+- **Accountable** – Own the outcomes, not just the effort
+- **Continuous** – Learn from failures, celebrate successes, improve always
 
 ---
 
-## 🎓 Education & Credentials
+## Education & Credentials
 
-**Current Education**
+### Current Education
+
 - **B.E. in Artificial Intelligence & Data Science**
 - **Stanley College of Engineering and Technology for Women**
 - **Graduating:** 2027 | **CGPA:** 7.5/10
 
-**Professional Certifications**
+### Professional Certifications
+
 - Oracle Cloud Infrastructure Data Science Professional
 - Oracle AI Foundations Associate
 - IBM AI Certifications
@@ -516,23 +471,23 @@ I'm committed to continuous learning:
 
 ---
 
-## 🌟 Let's Build Together!
+## Let's Build Together!
 
 I'm excited about opportunities to:
 
-- 🚀 **Join early-stage teams** building innovative AI/ML products
-- 🏢 **Contribute to scale-ups** solving real problems at massive scale
-- 🤝 **Collaborate with researchers** exploring frontier AI techniques
-- 📚 **Work on educational tech** making learning more effective
-- 💡 **Tackle hard problems** in healthcare, fintech, sustainability
+- Join early-stage teams building innovative AI/ML products
+- Contribute to scale-ups solving real problems at massive scale
+- Collaborate with researchers exploring frontier AI techniques
+- Work on educational tech making learning more effective
+- Tackle hard problems in healthcare, fintech, sustainability
 
-**If you're building something interesting, I'd love to chat!**
+If you're building something interesting, I'd love to chat!
 
 ---
 
 <div align="center">
 
-### 📬 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mythri-banda)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mythri_banda)
@@ -544,7 +499,7 @@ I'm excited about opportunities to:
 
 ---
 
-## 💡 A Few Quick Stats
+## Key Stats
 
 | Metric | Count |
 |--------|-------|
@@ -557,34 +512,26 @@ I'm excited about opportunities to:
 
 ---
 
-## 🌟 My Philosophy
+<div align="center">
+
+### My Philosophy
 
 > *"The best way to predict the future is to build it."*
 >
 > Every project I build is an opportunity to solve real problems, create lasting impact, and push the boundaries of what's possible with intelligent software.
 
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mythribanda/mythribanda/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mythribanda/mythribanda/pacman-output/pacman-contribution-graph.svg">
-    <img alt="Contribution Activity" src="https://raw.githubusercontent.com/mythribanda/mythribanda/pacman-output/pacman-contribution-graph.svg">
-  </picture>
 </div>
 
 ---
 
 <div align="center">
 
-### 🚀 Ready to Build Something Amazing?
+### Ready to Build Something Amazing?
 
 **Let's connect and explore opportunities to create impactful solutions together!**
 
 <img src="https://komarev.com/ghpvc/?username=mythribanda&color=blueviolet&style=flat-square" alt="Profile Views" />
 
-*Last Updated: June 2024* | *Always learning, always building* 🔨
+*Always learning, always building*
 
 </div>
