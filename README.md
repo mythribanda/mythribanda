@@ -257,14 +257,6 @@ I'm an **AI & Data Science Engineer** with a relentless drive to solve real-worl
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mythribanda&theme=github_dark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
-</div>
-
----
-
 ## Key Achievements & Strengths
 
 <details>
