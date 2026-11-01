@@ -1,0 +1,69 @@
+<svg width="430" height="220" viewBox="0 0 430 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1424"/>
+      <stop offset="100%" style="stop-color:#111827"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2dd4bf;stop-opacity:0.18"/>
+      <stop offset="100%" style="stop-color:#0d1424;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2dd4bf;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:0.3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="430" height="220" rx="12" fill="url(#bg)" stroke="url(#borderGrad)" stroke-width="1.5"/>
+  <rect x="0" y="0" width="430" height="55" rx="12" fill="url(#headerGrad)"/>
+  <rect x="0" y="42" width="430" height="13" fill="url(#headerGrad)"/>
+  <rect x="0" y="0" width="430" height="3" rx="2" fill="#2dd4bf" opacity="0.8"/>
+  <rect x="0" y="0" width="3" height="220" rx="2" fill="#2dd4bf" opacity="0.6"/>
+
+  <circle cx="30" cy="30" r="16" fill="#1e2a44" stroke="#2dd4bf" stroke-width="1.5"/>
+  <text x="30" y="35" font-family="monospace" font-size="14" text-anchor="middle" fill="#2dd4bf">🔒</text>
+
+  <text x="56" y="24" font-family="'Courier New', Consolas, monospace" font-size="18" font-weight="800"
+        fill="#2dd4bf" letter-spacing="1">TrustShare</text>
+  <text x="56" y="40" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#c9d1d9" opacity="0.6"
+        letter-spacing="1">SECURE FILE-SHARING PLATFORM</text>
+
+  <line x1="18" y1="58" x2="412" y2="58" stroke="#1e2a44" stroke-width="1"/>
+
+  <text x="18" y="80" font-family="'Courier New', Consolas, monospace" font-size="11.5" fill="#c9d1d9" opacity="0.88">
+    Secure file-sharing and collaboration platform
+  </text>
+  <text x="18" y="97" font-family="'Courier New', Consolas, monospace" font-size="11.5" fill="#c9d1d9" opacity="0.88">
+    featuring end-to-end encryption, fine-grained
+  </text>
+  <text x="18" y="114" font-family="'Courier New', Consolas, monospace" font-size="11.5" fill="#c9d1d9" opacity="0.88">
+    access control, and file management.
+  </text>
+
+  <text x="18" y="140" font-family="'Courier New', Consolas, monospace" font-size="9.5" fill="#2dd4bf" opacity="0.7"
+        letter-spacing="2">STACK</text>
+  <line x1="64" y1="135" x2="412" y2="135" stroke="#1e2a44" stroke-width="1"/>
+
+  <rect x="18" y="148" width="66" height="18" rx="9" fill="#1e2a44" stroke="#2dd4bf" stroke-width="0.8"/>
+  <text x="51" y="161" font-family="'Courier New', monospace" font-size="9" text-anchor="middle" fill="#2dd4bf">Node.js</text>
+
+  <rect x="92" y="148" width="56" height="18" rx="9" fill="#1e2a44" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="120" y="161" font-family="'Courier New', monospace" font-size="9" text-anchor="middle" fill="#8b5cf6">React</text>
+
+  <rect x="156" y="148" width="72" height="18" rx="9" fill="#1e2a44" stroke="#ec4899" stroke-width="0.8"/>
+  <text x="192" y="161" font-family="'Courier New', monospace" font-size="9" text-anchor="middle" fill="#ec4899">PostgreSQL</text>
+
+  <rect x="236" y="148" width="72" height="18" rx="9" fill="#1e2a44" stroke="#2dd4bf" stroke-width="0.8"/>
+  <text x="272" y="161" font-family="'Courier New', monospace" font-size="9" text-anchor="middle" fill="#2dd4bf">AES Encrypt</text>
+
+  <rect x="316" y="148" width="62" height="18" rx="9" fill="#1e2a44" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="347" y="161" font-family="'Courier New', monospace" font-size="9" text-anchor="middle" fill="#8b5cf6">Docker</text>
+
+  <rect x="18" y="185" width="140" height="26" rx="13" fill="#1e2a44" stroke="#2dd4bf" stroke-width="1.2"/>
+  <text x="88" y="202" font-family="'Courier New', monospace" font-size="11" font-weight="600"
+        text-anchor="middle" fill="#2dd4bf">⬡ View Repository</text>
+
+  <rect x="342" y="188" width="70" height="20" rx="10" fill="#2dd4bf" opacity="0.12" stroke="#2dd4bf" stroke-width="0.8"/>
+  <circle cx="354" cy="198" r="3" fill="#f59e0b"/>
+  <text x="367" y="202" font-family="'Courier New', monospace" font-size="9" fill="#2dd4bf">Building</text>
+</svg>

@@ -1,0 +1,164 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Main gradient background -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1424;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#111827;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1424;stop-opacity:1" />
+    </linearGradient>
+    <!-- Teal glow gradient -->
+    <radialGradient id="tealGlow" cx="30%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#2dd4bf;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#2dd4bf;stop-opacity:0" />
+    </radialGradient>
+    <!-- Purple glow gradient -->
+    <radialGradient id="purpleGlow" cx="70%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:0" />
+    </radialGradient>
+    <!-- Pink accent gradient -->
+    <radialGradient id="pinkGlow" cx="50%" cy="80%" r="40%">
+      <stop offset="0%" style="stop-color:#ec4899;stop-opacity:0.08" />
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:0" />
+    </radialGradient>
+    <!-- Text gradient -->
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2dd4bf" />
+      <stop offset="50%" style="stop-color:#c9d1d9" />
+      <stop offset="100%" style="stop-color:#8b5cf6" />
+    </linearGradient>
+    <!-- Subtitle gradient -->
+    <linearGradient id="subGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8b5cf6" />
+      <stop offset="100%" style="stop-color:#2dd4bf" />
+    </linearGradient>
+    <!-- Border gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2dd4bf;stop-opacity:0.6" />
+      <stop offset="50%" style="stop-color:#8b5cf6;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:0.6" />
+    </linearGradient>
+    <filter id="glow-teal">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#2dd4bf" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="300" fill="url(#bgGrad)" rx="12"/>
+  <!-- Glow layers -->
+  <rect width="900" height="300" fill="url(#tealGlow)" rx="12"/>
+  <rect width="900" height="300" fill="url(#purpleGlow)" rx="12"/>
+  <rect width="900" height="300" fill="url(#pinkGlow)" rx="12"/>
+
+  <!-- Geometric grid lines (subtle) -->
+  <g opacity="0.04" stroke="#2dd4bf" stroke-width="0.5">
+    <line x1="0" y1="50" x2="900" y2="50"/>
+    <line x1="0" y1="100" x2="900" y2="100"/>
+    <line x1="0" y1="150" x2="900" y2="150"/>
+    <line x1="0" y1="200" x2="900" y2="200"/>
+    <line x1="0" y1="250" x2="900" y2="250"/>
+    <line x1="100" y1="0" x2="100" y2="300"/>
+    <line x1="200" y1="0" x2="200" y2="300"/>
+    <line x1="300" y1="0" x2="300" y2="300"/>
+    <line x1="400" y1="0" x2="400" y2="300"/>
+    <line x1="500" y1="0" x2="500" y2="300"/>
+    <line x1="600" y1="0" x2="600" y2="300"/>
+    <line x1="700" y1="0" x2="700" y2="300"/>
+    <line x1="800" y1="0" x2="800" y2="300"/>
+  </g>
+
+  <!-- Decorative hexagons left -->
+  <g opacity="0.12">
+    <polygon points="40,60 60,48 80,60 80,84 60,96 40,84" fill="none" stroke="#2dd4bf" stroke-width="1.5"/>
+    <polygon points="20,100 40,88 60,100 60,124 40,136 20,124" fill="none" stroke="#2dd4bf" stroke-width="1"/>
+    <polygon points="60,130 80,118 100,130 100,154 80,166 60,154" fill="none" stroke="#8b5cf6" stroke-width="1"/>
+    <polygon points="15,155 35,143 55,155 55,179 35,191 15,179" fill="none" stroke="#8b5cf6" stroke-width="0.8"/>
+    <polygon points="70,200 90,188 110,200 110,224 90,236 70,224" fill="none" stroke="#ec4899" stroke-width="1"/>
+  </g>
+
+  <!-- Decorative hexagons right -->
+  <g opacity="0.12">
+    <polygon points="820,40 840,28 860,40 860,64 840,76 820,64" fill="none" stroke="#8b5cf6" stroke-width="1.5"/>
+    <polygon points="845,80 865,68 885,80 885,104 865,116 845,104" fill="none" stroke="#8b5cf6" stroke-width="1"/>
+    <polygon points="800,110 820,98 840,110 840,134 820,146 800,134" fill="none" stroke="#2dd4bf" stroke-width="1"/>
+    <polygon points="855,140 875,128 895,140 895,164 875,176 855,164" fill="none" stroke="#ec4899" stroke-width="1"/>
+    <polygon points="810,180 830,168 850,180 850,204 830,216 810,204" fill="none" stroke="#2dd4bf" stroke-width="0.8"/>
+    <polygon points="840,220 860,208 880,220 880,244 860,256 840,244" fill="none" stroke="#8b5cf6" stroke-width="1"/>
+  </g>
+
+  <!-- Corner accent dots -->
+  <circle cx="120" cy="270" r="2" fill="#2dd4bf" opacity="0.6"/>
+  <circle cx="135" cy="270" r="1.5" fill="#8b5cf6" opacity="0.5"/>
+  <circle cx="148" cy="270" r="1" fill="#ec4899" opacity="0.4"/>
+  <circle cx="780" cy="270" r="2" fill="#ec4899" opacity="0.6"/>
+  <circle cx="765" cy="270" r="1.5" fill="#8b5cf6" opacity="0.5"/>
+  <circle cx="752" cy="270" r="1" fill="#2dd4bf" opacity="0.4"/>
+
+  <!-- Floating small dots scattered -->
+  <g opacity="0.3">
+    <circle cx="160" cy="40" r="1.5" fill="#2dd4bf"/>
+    <circle cx="730" cy="35" r="1.5" fill="#8b5cf6"/>
+    <circle cx="200" cy="250" r="1" fill="#ec4899"/>
+    <circle cx="680" cy="255" r="1" fill="#2dd4bf"/>
+    <circle cx="140" cy="145" r="1" fill="#8b5cf6"/>
+    <circle cx="760" cy="155" r="1" fill="#ec4899"/>
+  </g>
+
+  <!-- Top border line with gradient -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#borderGrad)" rx="2"/>
+  <!-- Bottom border line -->
+  <rect x="0" y="297" width="900" height="3" fill="url(#borderGrad)" rx="2"/>
+
+  <!-- Left accent line -->
+  <rect x="0" y="0" width="3" height="300" fill="url(#borderGrad)" rx="2" transform="rotate(90 1.5 150) translate(0,-148.5) rotate(-90 1.5 150)"/>
+  <line x1="3" y1="3" x2="3" y2="297" stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.5"/>
+  <line x1="897" y1="3" x2="897" y2="297" stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Central Content -->
+  <!-- AI circuit decoration above name -->
+  <g transform="translate(450, 68)" opacity="0.5">
+    <line x1="-80" y1="0" x2="-10" y2="0" stroke="#2dd4bf" stroke-width="1"/>
+    <circle cx="-10" cy="0" r="3" fill="#2dd4bf"/>
+    <line x1="10" y1="0" x2="80" y2="0" stroke="#8b5cf6" stroke-width="1"/>
+    <circle cx="10" cy="0" r="3" fill="#8b5cf6"/>
+    <circle cx="0" cy="0" r="5" fill="none" stroke="#ec4899" stroke-width="1.5"/>
+    <!-- Small circuits -->
+    <line x1="-80" y1="0" x2="-80" y2="-8" stroke="#2dd4bf" stroke-width="0.8"/>
+    <line x1="-65" y1="0" x2="-65" y2="8" stroke="#2dd4bf" stroke-width="0.8"/>
+    <line x1="80" y1="0" x2="80" y2="-8" stroke="#8b5cf6" stroke-width="0.8"/>
+    <line x1="65" y1="0" x2="65" y2="8" stroke="#8b5cf6" stroke-width="0.8"/>
+  </g>
+
+  <!-- Name: MYTHRI BANDA -->
+  <text x="450" y="130" font-family="'Courier New', Consolas, monospace" font-size="54" font-weight="900"
+        letter-spacing="8" text-anchor="middle" fill="url(#titleGrad)" filter="url(#shadow)">
+    MYTHRI BANDA
+  </text>
+
+  <!-- Decorative line under name -->
+  <line x1="200" y1="148" x2="700" y2="148" stroke="url(#borderGrad)" stroke-width="1" opacity="0.6"/>
+
+  <!-- Role subtitle -->
+  <text x="450" y="178" font-family="'Courier New', Consolas, monospace" font-size="13" font-weight="400"
+        letter-spacing="3" text-anchor="middle" fill="url(#subGrad)" opacity="0.9">
+    AI &amp; DATA SCIENCE STUDENT  ·  AI ENGINEER  ·  FULL STACK DEVELOPER
+  </text>
+
+  <!-- College badge -->
+  <rect x="270" y="198" width="360" height="28" rx="14" fill="none" stroke="#1e2a44" stroke-width="1.5"/>
+  <rect x="270" y="198" width="360" height="28" rx="14" fill="#1e2a44" opacity="0.8"/>
+  <text x="450" y="217" font-family="'Courier New', Consolas, monospace" font-size="10.5" font-weight="400"
+        letter-spacing="1.5" text-anchor="middle" fill="#c9d1d9" opacity="0.8">
+    🎓 Stanley College of Engineering · Hyderabad · 2027
+  </text>
+
+  <!-- Bottom tagline -->
+  <text x="450" y="265" font-family="'Courier New', Consolas, monospace" font-size="11" font-weight="300"
+        letter-spacing="2" text-anchor="middle" fill="#2dd4bf" opacity="0.6">
+    Building Intelligent Systems · Solving Real-World Problems
+  </text>
+</svg>

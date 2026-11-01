@@ -1,0 +1,64 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1424"/>
+      <stop offset="100%" style="stop-color:#111827"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2dd4bf;stop-opacity:0.5"/>
+      <stop offset="50%" style="stop-color:#8b5cf6;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:0.5"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Terminal window -->
+  <rect x="0" y="0" width="900" height="180" rx="10" fill="url(#termBg)" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="900" height="34" rx="10" fill="#1e2a44" opacity="0.9"/>
+  <rect x="0" y="24" width="900" height="10" fill="#1e2a44" opacity="0.9"/>
+
+  <!-- Traffic light dots -->
+  <circle cx="22" cy="17" r="6" fill="#ec4899" opacity="0.9"/>
+  <circle cx="42" cy="17" r="6" fill="#f59e0b" opacity="0.9"/>
+  <circle cx="62" cy="17" r="6" fill="#2dd4bf" opacity="0.9"/>
+
+  <!-- Terminal title -->
+  <text x="450" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="500"
+        text-anchor="middle" fill="#c9d1d9" opacity="0.7">mythri@dev — bash — 900x180</text>
+
+  <!-- Terminal content -->
+  <!-- Line 1 -->
+  <text x="20" y="62" font-family="'Courier New', Consolas, monospace" font-size="13" fill="#2dd4bf">mythri@dev</text>
+  <text x="115" y="62" font-family="'Courier New', Consolas, monospace" font-size="13" fill="#c9d1d9">:</text>
+  <text x="122" y="62" font-family="'Courier New', Consolas, monospace" font-size="13" fill="#8b5cf6">~/portfolio</text>
+  <text x="222" y="62" font-family="'Courier New', Consolas, monospace" font-size="13" fill="#c9d1d9">$</text>
+  <text x="238" y="62" font-family="'Courier New', Consolas, monospace" font-size="13" fill="#c9d1d9">cat about.txt</text>
+
+  <!-- Line 2 -->
+  <text x="20" y="86" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#c9d1d9" opacity="0.85">
+    → AI &amp; Data Science Undergraduate @ Stanley College of Engineering
+  </text>
+
+  <!-- Line 3 -->
+  <text x="20" y="107" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#c9d1d9" opacity="0.85">
+    → Building intelligent applications and AI-powered systems
+  </text>
+
+  <!-- Line 4 -->
+  <text x="20" y="128" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#c9d1d9" opacity="0.85">
+    → Passionate about NLP, ML, GenAI and Full Stack Development
+  </text>
+
+  <!-- Line 5 -->
+  <text x="20" y="149" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#2dd4bf" opacity="0.85">
+    → Currently: Crafting EduSim · InsightFlow · TrustShare · Smart Grid AI
+  </text>
+
+  <!-- Cursor blink -->
+  <text x="20" y="170" font-family="'Courier New', Consolas, monospace" font-size="13" fill="#2dd4bf">mythri@dev</text>
+  <text x="115" y="170" font-family="'Courier New', Consolas, monospace" font-size="13" fill="#c9d1d9">:</text>
+  <text x="122" y="170" font-family="'Courier New', Consolas, monospace" font-size="13" fill="#8b5cf6">~/portfolio</text>
+  <text x="222" y="170" font-family="'Courier New', Consolas, monospace" font-size="13" fill="#c9d1d9">$ </text>
+  <rect x="246" y="159" width="9" height="14" fill="#2dd4bf" opacity="0.8"/>
+</svg>

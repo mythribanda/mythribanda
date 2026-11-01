@@ -1,0 +1,27 @@
+<svg width="900" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1424"/>
+      <stop offset="50%" style="stop-color:#111827"/>
+      <stop offset="100%" style="stop-color:#0d1424"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ec4899;stop-opacity:0.8"/>
+      <stop offset="50%" style="stop-color:#8b5cf6;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#2dd4bf;stop-opacity:0.8"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ec4899"/>
+      <stop offset="100%" style="stop-color:#c9d1d9"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="60" fill="url(#bg)" rx="8"/>
+  <rect x="0" y="0" width="900" height="2" fill="url(#accentLine)"/>
+  <circle cx="32" cy="30" r="16" fill="#1e2a44" stroke="#ec4899" stroke-width="1.5" opacity="0.8"/>
+  <text x="32" y="35" font-family="monospace" font-size="14" text-anchor="middle" fill="#ec4899">◈</text>
+  <text x="58" y="35" font-family="'Courier New', Consolas, monospace" font-size="18" font-weight="700"
+        letter-spacing="4" fill="url(#textGrad)">FEATURED PROJECTS</text>
+  <line x1="280" y1="30" x2="880" y2="30" stroke="#1e2a44" stroke-width="1.5"/>
+  <circle cx="280" cy="30" r="3" fill="#ec4899" opacity="0.6"/>
+  <circle cx="880" cy="30" r="3" fill="#8b5cf6" opacity="0.6"/>
+</svg>

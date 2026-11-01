@@ -1,0 +1,50 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1424"/>
+      <stop offset="100%" style="stop-color:#111827"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2dd4bf"/>
+      <stop offset="100%" style="stop-color:#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2dd4bf;stop-opacity:0.6"/>
+      <stop offset="50%" style="stop-color:#8b5cf6;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:0.6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="120" rx="10" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <!-- Top accent -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#borderGrad)" rx="2"/>
+
+  <!-- Decorative left element -->
+  <g opacity="0.3">
+    <polygon points="20,60 35,45 50,60 35,75" fill="none" stroke="#2dd4bf" stroke-width="1"/>
+    <polygon points="50,60 65,45 80,60 65,75" fill="none" stroke="#8b5cf6" stroke-width="1"/>
+  </g>
+
+  <!-- Main thank you text -->
+  <text x="450" y="52" font-family="'Courier New', Consolas, monospace" font-size="22" font-weight="700"
+        letter-spacing="3" text-anchor="middle" fill="url(#titleGrad)">Thanks for visiting my profile!</text>
+
+  <!-- Tagline -->
+  <text x="450" y="80" font-family="'Courier New', Consolas, monospace" font-size="14" font-weight="400"
+        letter-spacing="4" text-anchor="middle" fill="#c9d1d9" opacity="0.75">Building  ·  Learning  ·  Innovating</text>
+
+  <!-- Star decorations -->
+  <text x="330" y="80" font-family="monospace" font-size="12" text-anchor="middle" fill="#2dd4bf" opacity="0.6">✦</text>
+  <text x="570" y="80" font-family="monospace" font-size="12" text-anchor="middle" fill="#8b5cf6" opacity="0.6">✦</text>
+
+  <!-- Bottom links hint -->
+  <text x="450" y="108" font-family="'Courier New', Consolas, monospace" font-size="10.5"
+        letter-spacing="2" text-anchor="middle" fill="#ec4899" opacity="0.6">github.com/mythribanda</text>
+
+  <!-- Decorative right element -->
+  <g opacity="0.3">
+    <polygon points="820,60 835,45 850,60 835,75" fill="none" stroke="#8b5cf6" stroke-width="1"/>
+    <polygon points="850,60 865,45 880,60 865,75" fill="none" stroke="#ec4899" stroke-width="1"/>
+  </g>
+</svg>
