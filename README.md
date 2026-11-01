@@ -1,314 +1,226 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="300" style="border-radius: 15px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:123c55,100:5b3fa6&height=220&section=header&text=MYTHRI%20RAJ%20BANDA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%" />
 
-<br/>
+<a href="https://www.linkedin.com/in/mythri-banda"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:bandamythri@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/mythribanda"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://mythribanda.github.io/Mythri-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore-6C5CE7?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=0E75B6&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+There!+I'm+Mythri+Raj+Banda;AI+%26+Software+Engineer" />
-</h1>
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer+%7C+Product+Builder;Crafting+intelligent+systems+at+the+intersection+of+AI+%26+Software" />
-</h3>
-
-<br/>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mythribanda&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/mythribanda?tab=followers">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/mythribanda?label=Followers&style=for-the-badge&color=0e75b6&labelColor=black">
-  </a>
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/mythri-banda" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-  <a href="mailto:bandamythri@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
-  </a>
-  <a href="https://github.com/mythribanda" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo" />
-  </a>
-  <a href="https://twitter.com/mythri_banda" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" />
-  </a>
-  <a href="https://mythribanda.github.io/Mythri-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://komarev.com/ghpvc/?username=mythribanda&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" />
 
 </div>
+
+---
 
 ## About Me
 
-I'm an AI & Data Science Engineer with a relentless drive to solve real-world problems through intelligent, scalable software. I've built production-grade applications across healthcare, education, analytics, and productivity domains, combining AI with solid engineering fundamentals.
+I'm an **Artificial Intelligence & Data Science undergraduate** at Stanley College of Engineering and Technology for Women, passionate about building practical software at the intersection of **AI, data, and full-stack engineering**.
 
-**What I do**
-- Build AI-powered systems that drive tangible business value
-- Engineer full-stack solutions from ideation to deployment
-- Extract actionable insights from complex data
-- Ship products that people use and rely on
-- Learn rapidly across new domains and technologies
+I enjoy taking ideas from an initial problem statement to a working application — designing interfaces, building APIs, integrating machine learning, and connecting the pieces into useful products.
 
-**What drives me:** turning ideas into functional, impactful products — not just writing code, but building systems that matter.
+- Building AI-powered applications in education, analytics, healthcare, and productivity.
+- Exploring NLP, computer vision, machine learning, RAG, and generative AI.
+- Developing full-stack applications with React, Python, FastAPI, and databases.
+- Interested in turning complex technical ideas into simple, accessible experiences.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=800&color=2DD4BF&center=true&vCenter=true&width=700&lines=Building+useful+AI+products;Learning+by+building+and+experimenting;Turning+ideas+into+working+software" alt="Typing introduction" />
 </p>
 
-## Tech Stack & Expertise
+---
+
+## Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css" />
+</p>
 
 ### Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="typescript" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="javascript" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwind" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-### Backend & Programming
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sql" height="45" alt="sql" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git" />
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 </p>
 
-### AI & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="tensorflow" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="pytorch" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" alt="opencv" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="45" alt="sklearn" />
+### AI, Machine Learning & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-### Databases & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql" height="45" alt="postgresql" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode" />
+### Databases, Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+---
 
 ## Featured Projects
 
-<details>
-<summary><b>PillTalk — AI Healthcare Intelligence Platform</b></summary>
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**The Vision:** Empower users to understand medicines, prescriptions, and healthcare information through intelligent AI analysis.
+### [EduSim](https://github.com/mythribanda/EduSim)
 
-**What I Built**
-- End-to-end pipeline for prescription processing: image input, OCR extraction, AI-powered analysis, human-readable explanations
-- Computer vision and NLP integrated system for medical document interpretation
-- LLM integration (Google Gemini API) for generating contextual healthcare insights
-- Production-ready application deployed on Hugging Face Spaces during a CBIT research internship
+**Multilingual AI-powered experiential learning platform**
 
-**Technologies:** Python, OCR, Computer Vision, NLP, Generative AI, Google Gemini API, Hugging Face
+- AI tutor with textbook-grounded RAG.
+- Interactive STEM simulations and Formula Lab.
+- FAISS-based semantic textbook retrieval.
+- Local-first AI inference using Ollama with cloud fallback.
+- React, FastAPI, PostgreSQL, Docker.
 
-**Impact:** simplifies complex healthcare information for non-expert users, reduces manual interpretation effort, and makes prescription literacy more accessible.
+</td>
+<td width="50%" valign="top">
 
-</details>
+### [InsightFlow](https://github.com/mythribanda/InsightFlow)
 
-<details>
-<summary><b>EduSim — AI-Powered Adaptive Learning Platform</b></summary>
-<br/>
+**AI-assisted data intelligence platform**
 
-**The Vision:** Transform education through personalized, interactive, AI-driven learning experiences.
+- Automated dataset profiling and data quality scoring.
+- Leakage-aware machine learning workflows.
+- SHAP model explainability and anomaly detection.
+- Natural-language-to-pandas data querying.
+- React, Python, FastAPI, scikit-learn.
 
-**What I Built**
-- Curriculum management system with structured learning pathways
-- AI Simulation Synthesis Engine that generates interactive physics simulations from textbook content using RAG and an LLM
-- Adaptive content delivery that responds to student progress
-- Full sidebar architecture refactor (React Context, CSS Grid, responsive design)
-- Complex React/TypeScript debugging across lifecycle management, async operations, and state synchronization
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Technical Highlights**
-- RAG pipeline: textbook content retrieval, LLM synthesis, sandboxed HTML/CSS/JS rendering
-- Fallback system with six-plus hand-crafted simulations for robustness
-- localStorage-based history persistence across sessions
-- Real-time rendering of user-generated interactive content
+### [TrustShare](https://github.com/mythribanda/TrustShare)
 
-**Technologies:** React, TypeScript, JavaScript, CSS Grid, Node.js, AI/LLM Integration, Sandboxed Execution
+**Secure file-sharing and collaboration platform**
 
-**Impact:** makes physics learning interactive, personalizes education to individual student needs, and transforms static textbook content into dynamic simulations.
+- Secure file management and sharing workflows.
+- Access control and permission-oriented features.
+- Security-focused dashboard experience.
+- Full-stack application development.
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>Data Whisperer — Automated Analytics Platform</b></summary>
-<br/>
+### [StudLyf v2](https://github.com/mythribanda/studlyfv2)
 
-**The Vision:** Enable anyone to unlock insights from data without technical expertise.
+**AI-powered career development platform**
 
-**What I Built**
-- End-to-end data pipeline: upload dataset, automated cleaning, exploratory analysis, insight generation, visualization
-- Statistical analysis engine with automated pattern detection
-- Visualization generation (charts, graphs, heatmaps) tailored to data characteristics
-- Intelligent insight extraction that surfaces actionable findings
+- Student-focused career development experience.
+- Full-stack product development.
+- Focus on learning, growth, and career readiness.
 
-**Technologies:** Python, Pandas, NumPy, Machine Learning, Data Visualization
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Impact:** democratizes data analytics for non-technical users, reduces analysis time from hours to minutes, and enables faster, better-informed decisions.
+### [SafeWalk AI](https://github.com/mythribanda/safewalk-ai)
 
-</details>
+**AI-assisted personal safety project**
 
-<details>
-<summary><b>MindBreaks — AI Wellness & Productivity Assistant</b></summary>
-<br/>
+- Safety-oriented application concept.
+- Location-aware and user-focused experience.
 
-**The Vision:** Help teams maintain focus and wellness through personalized microbreak recommendations.
+</td>
+<td width="50%" valign="top">
 
-**What I Built**
-- Personalization engine that learns individual productivity patterns
-- Intelligent break scheduling based on focus duration and task type
-- Wellness metrics tracking to monitor burnout and engagement
-- Smart recommendations using behavioral analysis
+### [CBIT Research Internship](https://github.com/mythribanda/CBIT-research-internship)
 
-**Technologies:** Python, Machine Learning, Personalization Systems, Data Analytics
+**Applied AI/ML research**
 
-**Impact:** improves team productivity and focus, reduces burnout through intelligent intervention, and enhances overall employee wellness.
+- Research work involving AI and machine learning.
+- Healthcare-oriented NLP and computer vision exploration.
 
-</details>
-
-<details>
-<summary><b>Spotify Streaming Analytics Project</b></summary>
-<br/>
-
-**The Vision:** Understand global streaming patterns and user behavior through data storytelling.
-
-**What I Built**
-- Large-scale data analysis of streaming patterns across user segments
-- Exploratory data analysis pipeline for discovering trends
-- Statistical analysis for validating hypotheses
-- Interactive dashboards in Power BI for stakeholder communication
-
-**Technologies:** Python, Pandas, NumPy, Power BI, Data Visualization
-
-**Impact:** generated meaningful insights into user behavior and streaming trends, and demonstrated advanced data storytelling capabilities.
-
-</details>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <a href="https://github.com/mythribanda?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Repositories-My%20GitHub-2dd4bf?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
 
 ## Experience
 
-**AI Intern — Alonzo AI**
-*Artificial Intelligence Applications & ML Solutions Development*
-- Developed and integrated AI models into production applications
-- Worked on ML solutions for real-world problem domains
-- Contributed to AI product development and intelligent automation initiatives
+**Full-Stack Intern — Alonzo AI**
 
-**Research Intern — Chaitanya Bharathi Institute of Technology (CBIT)**
-*Applied Research in AI & Data Science*
-- Conducted applied research in Artificial Intelligence and Data Analysis
-- Built the PillTalk project as part of a research initiative
-- Demonstrated proficiency in research methodologies and critical thinking
+- Worked on full-stack application development and AI-powered product features.
+- Contributed to frontend and backend implementation.
+- Collaborated with mentors and teammates in an on-site internship environment.
+
+**AI/ML Research Intern — CBIT**
+
+- Explored AI and machine learning applications in healthcare.
+- Worked with NLP and computer vision concepts.
+- Participated in research-oriented development and experimentation.
+
+---
 
 ## Education & Certifications
 
-**B.E. in Artificial Intelligence & Data Science**
-Stanley College of Engineering and Technology for Women — Graduating 2027 — CGPA 7.5/10
+**B.E. — Artificial Intelligence & Data Science**  
+Stanley College of Engineering and Technology for Women  
+2023–2027
 
 **Certifications**
-- Oracle Cloud Infrastructure Data Science Professional
+- Oracle Certified Data Science Professional
 - Oracle AI Foundations Associate
-- IBM AI Certifications
-- Google AI Agents Intensive Course
-- Cisco Certifications
-- HackerRank Software Developer Certification
+- IBM AI Fundamentals
+- Cisco AI Fundamentals
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mythribanda&show_icons=true&hide_border=true&bg_color=0d1424&title_color=2dd4bf&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mythribanda&hide_border=true&background=0d1424&ring=2dd4bf&fire=8b5cf6&currStreakLabel=2dd4bf&sideLabels=c9d1d9&dates=9ca3af" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mythribanda&layout=compact&hide_border=true&bg_color=0d1424&title_color=2dd4bf&text_color=c9d1d9&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mythribanda&bg_color=0d1424&color=2dd4bf&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mythribanda/mythribanda/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mythribanda/mythribanda/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mythribanda/mythribanda/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+## Let's Connect
+
+I'm always interested in learning, collaborating, and building meaningful technology.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <a href="https://www.linkedin.com/in/mythri-banda">LinkedIn</a> ·
+  <a href="mailto:bandamythri@gmail.com">Email</a> ·
+  <a href="https://mythribanda.github.io/Mythri-Portfolio/">Portfolio</a> ·
+  <a href="https://github.com/mythribanda">GitHub</a>
 </p>
 
-## GitHub Analytics & Statistics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mythribanda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0077B5&text_color=E2E8F0&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mythribanda&theme=tokyonight&hide_border=true&background=0D1117&stroke=0E75B6&ring=0077B5&fire=0E75B6&border_radius=10" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mythribanda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6&text_color=E2E8F0&langs_count=10&border_radius=10&cache_seconds=86400" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mythribanda&bg_color=0D1117&color=0E75B6&line=0077B5&point=0E75B6&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" width="95%" />
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-## Key Stats
-
-| Metric | Detail |
-|---|---|
-| Projects Shipped | 5+ full-stack applications |
-| Domains | Healthcare, Education, Analytics, Productivity, Data Science |
-| Languages | Python, JavaScript/TypeScript, Java, SQL, R |
-| Specializations | AI/ML, Full-Stack, Data Science, Product Engineering |
-| Experience | 2+ years in AI/ML and full-stack development |
-| Certifications | 5+ in Cloud, AI, and Developer tracks |
-
-## My Engineering Philosophy
-
-> "Build with intention. Ship with confidence. Learn relentlessly."
-
-- **User-Centric** — every line of code should serve users
-- **Pragmatic** — perfect is the enemy of good; ship and iterate
-- **Curious** — always ask "why" and dive deep into problems
-- **Collaborative** — better solutions emerge from diverse perspectives
-- **Accountable** — own the outcomes, not just the effort
-- **Continuous** — learn from failures, celebrate successes, keep improving
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<h3><em>"The best way to predict the future is to build it."</em></h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:123c55,100:5b3fa6&height=110&section=footer" width="100%" />
+  <h3>Build with curiosity. Learn with intention. Create with impact.</h3>
 </div>
